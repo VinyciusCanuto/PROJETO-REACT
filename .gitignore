@@ -12,9 +12,6 @@ dist
 dist-ssr
 *.local
 public
-README.md
-vite.config.js
-.eslintrc.cjs
 
 # Editor directories and files
 .vscode/*
